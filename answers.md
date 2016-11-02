@@ -30,3 +30,5 @@ The flash attribute has an error and notice accessor method that allows us to di
 https://jaemin-pokeportal.herokuapp.com/
 
 For some reason, the app is unable to route to anything. 
+
+https://github.com/jaeminkim1324/fa16-proj1
